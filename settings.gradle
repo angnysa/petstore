@@ -1,0 +1,6 @@
+rootProject.name = 'petstore'
+
+include 'petstore-backend'
+include 'petstore-frontend'
+//include 'petstore-oauth2'
+
